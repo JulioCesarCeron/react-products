@@ -8,26 +8,40 @@
     {
       "id": 2,
       "produto": "Sabão em pó",
-      "categoria": 1
+      "categoria": "1"
     },
     {
-      "id": 3,
-      "produto": "Bolacha",
-      "categoria": 2
+      "produto": "teste produto limpeza",
+      "categoria": "1",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "produto": "valor para o novo produtos dsdf",
+      "categoria": "3"
+    },
+    {
+      "produto": "adsf",
+      "categoria": "1",
+      "id": 6
     }
   ],
   "categorias": [
     {
       "id": 1,
-      "categoria": "Limpeza"
+      "categoria": "Limpeza aviao"
     },
     {
       "id": 2,
-      "categoria": "Alimentos"
+      "categoria": "teste ver s"
     },
     {
-      "categoria": "teste",
+      "categoria": "oléeee",
       "id": 3
+    },
+    {
+      "categoria": "teset",
+      "id": 4
     }
   ]
 }
